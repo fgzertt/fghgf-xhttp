@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io//fghgf/hftss-image:latest
+          tags: ghcr.io//fghgf/hftsds-image:latest
